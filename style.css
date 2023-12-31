@@ -1,0 +1,35 @@
+body {
+  background-color: #000000;
+  margin: 0;
+  overflow: hidden;
+}
+canvas {
+  cursor: pointer;
+}
+.a {
+  color: gold;
+  font-size: 50px;
+  margin-top: -10px;
+  position: absolute;
+  text-align: center;
+  top: 80%;
+  width: 100%;
+}
+.h {
+  color: blue;
+  font-size: 60px;
+  margin-top: -10px;
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  width: 100%;
+}
+.start {
+  color: white;
+  font-size: 40px;
+  margin-top: -40px;
+  position: absolute;
+  text-align: center;
+  top: 60%;
+  width: 100%;
+}
